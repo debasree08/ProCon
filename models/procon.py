@@ -70,9 +70,9 @@ history = model.fit(
     verbose=1
 )
 
-############################### evaluating ################################
+############################### evaluation ################################
 
-import numpy as np
+import numpy as npS
 from sklearn.metrics import accuracy_score, f1_score, classification_report
 
 pred = np.argmax(model.predict(X_test), axis=1)
