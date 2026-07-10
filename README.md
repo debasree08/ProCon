@@ -74,5 +74,6 @@ Commands to run the model
 
 # References
 
-[1] Julian Bock, Robert Krajewski, Tobias Moers, Steffen Runde, Lennart Vater, and Lutz Eckstein. 2019. The inD Dataset: A Drone Dataset of Naturalistic Road User Trajectories at German Intersections. In IEEE IV. 1929–1934
+[1] Julian Bock, Robert Krajewski, Tobias Moers, Steffen Runde, Lennart Vater, and Lutz Eckstein. 2019. The inD Dataset: A Drone Dataset of Naturalistic Road User Trajectories at German Intersections. In IEEE IV. 1929–1934.
+
 [2] Tobias Moers, Lennart Vater, Robert Krajewski, Julian Bock, Adrian Zlocki, and Lutz Eckstein. 2022. The exiD Dataset: A Real-World Trajectory Dataset of Highly Interactive Highway Scenarios in Germany. In IEEE IV. 958–964.
