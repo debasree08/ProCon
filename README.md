@@ -70,10 +70,7 @@ This file stores metadata corresponding to every tracked object.
 
 Commands to run the model
 
-    python data_collect.py <file_name> // Collect Data
-    python maneuvers.py <file_name> // Feature Extraction
-    python script_vid.py <file_name> // Preprocessing
-    python som_model.py // Running the model
+    python main.py
 
 # References
 
